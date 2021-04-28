@@ -1,0 +1,22 @@
+.no1{
+    color:cornsilk;
+    background-color: black;
+    font-size: 2rem;
+    font-style: oblique;
+    height: 2.5rem;
+    width: 20rem;
+    font-family: 'Architects Daughter', cursive;
+}
+p{
+    color:cornsilk;
+    font-size: 1.2rem;
+    font-style: italic;
+    margin-left: 1mm;
+    font-family: 'Architects Daughter', cursive;
+}
+.it{
+    color: black;
+}
+.thisis1{
+    border-radius: 50%;
+}
