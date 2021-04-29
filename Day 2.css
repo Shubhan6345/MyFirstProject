@@ -22,3 +22,8 @@
 body {
     background-color: beige;
 }
+.container {
+    display: flex;
+    width: 4rem;
+    color: black;
+  }
